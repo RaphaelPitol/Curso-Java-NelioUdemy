@@ -1,0 +1,39 @@
+package produto;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		Produto p1 = new Produto();
+		System.out.println("Digite o nome do Produto:");
+		System.out.print("nome:");
+		p1.nome = sc.nextLine();
+		System.out.print("estoque:");
+		p1.estoque = sc.nextInt();
+		System.out.print("preco:");
+		p1.preco = sc.nextDouble();
+		
+		
+		System.out.println(p1);
+		
+		
+//		System.out.println("Nome:"+ p1.nome + " Estoque:"+p1.estoque+" Total:"+p1.valorTotal());
+		System.out.println("Quanto quer adicionar?");
+		int add = sc.nextInt();
+		p1.addEstoque(add);
+		System.out.println("Nome:"+ p1.nome + " Estoque:"+p1.estoque+" Total:"+p1.valorTotal());
+		System.out.println("Remova uma quantidade:");
+		int rem = sc.nextInt();
+		p1.remEstoque(rem);
+		System.out.println("Nome:"+ p1.nome + " Estoque:"+p1.estoque+" Total:"+p1.valorTotal());
+		
+		sc.close();
+	}
+
+}
