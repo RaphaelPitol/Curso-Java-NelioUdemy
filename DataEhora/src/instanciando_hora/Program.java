@@ -45,7 +45,7 @@ public class Program {
 		System.out.println("d5: "+d5);
 		System.out.println("d6: "+d6);
 		System.out.println("d7: "+d7);
-		System.out.println("d8: "+d8);
+		System.out.println("d8: "+d8.format(form1));
 		System.out.println("d9: "+d9);
 		System.out.println("d10: "+d10);
 		System.out.println("d11: "+d11);
