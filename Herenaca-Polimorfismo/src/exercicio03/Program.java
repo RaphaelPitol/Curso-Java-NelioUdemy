@@ -47,6 +47,8 @@ public class Program {
 		}
 		System.out.println();
 		System.out.println("Imposto total: R$"+ String.format("%.2f", impostoTotal));
+		
+		sc.close();
 
 	}
 

@@ -55,7 +55,7 @@ public class Programan {
 		for (Product product : listProducts) {
 			System.out.println(product.priceTag());
 		}
-		
+		sc.close();
 	}
 
 }

@@ -41,6 +41,7 @@ public class Program {
 		for(Sheap sheap : list) {
 			System.out.println(String.format("%.2f",sheap.area()));
 		}
+		sc.close();
 	}
 
 }

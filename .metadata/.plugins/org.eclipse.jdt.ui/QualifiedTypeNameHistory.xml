@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="foreach.Pessoa"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-    <fullyQualifiedTypeName name="exercicio01.Funcionario"/>
-    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.time.ZoneId"/>
-    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
-    <fullyQualifiedTypeName name="java.time.Instant"/>
-    <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
-    <fullyQualifiedTypeName name="java.time.Duration"/>
-    <fullyQualifiedTypeName name="javax.xml.crypto.Data"/>
     <fullyQualifiedTypeName name="entities.Pedido"/>
     <fullyQualifiedTypeName name="entities.enuns.OrderStatus"/>
     <fullyQualifiedTypeName name="entities.Worker"/>
@@ -30,7 +18,6 @@
     <fullyQualifiedTypeName name="exercicio03.enun.OrderStatus"/>
     <fullyQualifiedTypeName name="exercicio03.entities.Product"/>
     <fullyQualifiedTypeName name="exercicio03.entities.OrderItem"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="entities.SavingsAccount"/>
     <fullyQualifiedTypeName name="entities.Account"/>
@@ -38,17 +25,13 @@
     <fullyQualifiedTypeName name="exercicio01.Enterprise"/>
     <fullyQualifiedTypeName name="exercicio01.OutsideEmployee"/>
     <fullyQualifiedTypeName name="exercicio01.Employee"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="exercicio02.Product"/>
     <fullyQualifiedTypeName name="exercicio02.UsedProduct"/>
     <fullyQualifiedTypeName name="exercicio02.ImportedProduct"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.Character"/>
@@ -56,8 +39,25 @@
     <fullyQualifiedTypeName name="classe_Abstract.Rectangle"/>
     <fullyQualifiedTypeName name="classe_Abstract.Circle"/>
     <fullyQualifiedTypeName name="classe_Abstract.Sheap"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="exercicio03.PessoaFisica"/>
     <fullyQualifiedTypeName name="exercicio03.PessoaJuridica"/>
     <fullyQualifiedTypeName name="exercicio03.Contribuinte"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.text.DateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="model.entities.Reservation"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.ParseException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="model.exceptions.DomainException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
 </qualifiedTypeNameHistroy>
