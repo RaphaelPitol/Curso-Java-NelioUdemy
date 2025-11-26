@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="entities.Pedido"/>
-    <fullyQualifiedTypeName name="entities.enuns.OrderStatus"/>
-    <fullyQualifiedTypeName name="entities.Worker"/>
-    <fullyQualifiedTypeName name="entities.Departament"/>
     <fullyQualifiedTypeName name="entities.HourContract"/>
     <fullyQualifiedTypeName name="java.lang.Enum"/>
     <fullyQualifiedTypeName name="javax.swing.text.DefaultEditorKit.InsertContentAction"/>
@@ -18,7 +14,6 @@
     <fullyQualifiedTypeName name="exercicio03.enun.OrderStatus"/>
     <fullyQualifiedTypeName name="exercicio03.entities.Product"/>
     <fullyQualifiedTypeName name="exercicio03.entities.OrderItem"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="entities.SavingsAccount"/>
     <fullyQualifiedTypeName name="entities.Account"/>
     <fullyQualifiedTypeName name="entities.BusinesAccount"/>
@@ -29,11 +24,7 @@
     <fullyQualifiedTypeName name="exercicio02.Product"/>
     <fullyQualifiedTypeName name="exercicio02.UsedProduct"/>
     <fullyQualifiedTypeName name="exercicio02.ImportedProduct"/>
-    <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="classe_Abstract.Color"/>
     <fullyQualifiedTypeName name="classe_Abstract.Rectangle"/>
@@ -42,22 +33,31 @@
     <fullyQualifiedTypeName name="exercicio03.PessoaFisica"/>
     <fullyQualifiedTypeName name="exercicio03.PessoaJuridica"/>
     <fullyQualifiedTypeName name="exercicio03.Contribuinte"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Vector"/>
     <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
-    <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.text.DateFormat"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="model.entities.Reservation"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.text.ParseException"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="model.exceptions.DomainException"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="model.exceptions.DomainException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="model.entities.Account"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
 </qualifiedTypeNameHistroy>
